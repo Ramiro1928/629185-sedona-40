@@ -2,6 +2,7 @@
 
 * Студент: [Роман](https://up.htmlacademy.ru/htmlcss/40/user/629185).
 * Наставник: `Николай Шабалин`.
+* Сайт: [Мой проект Седона]: (https://ramiro1928.github.io/629185-sedona-40/)
 
 ---
 
